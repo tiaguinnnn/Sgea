@@ -18,24 +18,8 @@ Ao iniciar o sistema, o usuário será direcionado para uma tela de login. Para 
 
 
 
+![Captura de tela 2025-06-05 151114](https://github.com/user-attachments/assets/8564249e-15e5-48bf-9d75-2c5dbaa170d9)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Captura de tela 2025-06-04 174631](https://github.com/user-attachments/assets/027cd275-edaa-4953-b8d8-e9229cacf779)
 ![Captura de tela 2025-06-04 174828](https://github.com/user-attachments/assets/8a56b403-c5c1-4f97-83db-2f3d839d4a76)
 
 Se as credenciais estiverem corretas, o usuário será redirecionado para o menu principal.
